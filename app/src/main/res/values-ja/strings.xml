@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice_I18N</string>
+    <string name="first_page">最初のページ</string>
+    <string name="second_page">2ページ目</string>
+
+
+    <string name="default_language">プリセット</string>
+    <string name="traditional_chinese">繁体字中国語</string>
+    <string name="english">英語</string>
+    <string name="japanese">日本語</string>
+    <string name="simplified_chinese">簡体字中国語</string>
+</resources>

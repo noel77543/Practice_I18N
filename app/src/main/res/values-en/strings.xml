@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice_I18N</string>
+    <string name="first_page">The first page</string>
+    <string name="second_page">The second page</string>
+
+    <string name="default_language">Default</string>
+    <string name="traditional_chinese">TraditionalChinese</string>
+    <string name="english">English</string>
+    <string name="japanese">Japanese</string>
+    <string name="simplified_chinese">SimplifiedChinese</string>
+</resources>
